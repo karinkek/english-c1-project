@@ -1,0 +1,165 @@
+{
+  "745537035": {
+    "learned_words": {
+      "nuance": {
+        "correct": 0,
+        "attempts": 3
+      },
+      "cathartic": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "paradoxical": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "nexus": {
+        "correct": 1,
+        "attempts": 2
+      },
+      "didactic": {
+        "correct": 0,
+        "attempts": 2
+      },
+      "truculent": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "diligent": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "disseminate": {
+        "correct": 1,
+        "attempts": 1
+      },
+      "voracious": {
+        "correct": 1,
+        "attempts": 1
+      },
+      "jargon": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "languid": {
+        "correct": 0,
+        "attempts": 1
+      }
+    },
+    "total_correct": 3,
+    "total_attempts": 15,
+    "sessions_completed": 3,
+    "daily_streak": 0,
+    "last_active": "2025-12-24T18:31:36.823865"
+  },
+  "1736787983": {
+    "learned_words": {
+      "myriad": {
+        "correct": 1,
+        "attempts": 2
+      },
+      "juxtaposition": {
+        "correct": 1,
+        "attempts": 1
+      },
+      "judicious": {
+        "correct": 1,
+        "attempts": 1
+      },
+      "magnanimous": {
+        "correct": 1,
+        "attempts": 2
+      },
+      "transparent": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "vicarious": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "abstruse": {
+        "correct": 1,
+        "attempts": 1
+      },
+      "narcissistic": {
+        "correct": 1,
+        "attempts": 1
+      }
+    },
+    "total_correct": 6,
+    "total_attempts": 10,
+    "sessions_completed": 2,
+    "daily_streak": 0,
+    "last_active": "2025-12-24T18:35:48.156104"
+  },
+  "7818734028": {
+    "learned_words": {
+      "nexus": {
+        "correct": 1,
+        "attempts": 2
+      },
+      "jargon": {
+        "correct": 1,
+        "attempts": 3
+      },
+      "esoteric": {
+        "correct": 0,
+        "attempts": 2
+      },
+      "nefarious": {
+        "correct": 0,
+        "attempts": 2
+      },
+      "fallacious": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "liaise": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "ratify": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "judicious": {
+        "correct": 1,
+        "attempts": 1
+      },
+      "languid": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "kaleidoscopic": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "eloquent": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "quixotic": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "benchmark": {
+        "correct": 1,
+        "attempts": 1
+      },
+      "contingency": {
+        "correct": 0,
+        "attempts": 1
+      },
+      "ambivalent": {
+        "correct": 1,
+        "attempts": 1
+      }
+    },
+    "total_correct": 5,
+    "total_attempts": 20,
+    "sessions_completed": 4,
+    "daily_streak": 0,
+    "last_active": "2025-12-24T18:37:51.040302"
+  }
+}
