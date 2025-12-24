@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 """
-🎯 C1 ENGLISH VOCABULARY BOT - FINAL VERSION
-Полная версия бота с 150+ словами и исправленной структурой
+🤖 C1 Vocabulary Telegram Bot
+Бот для изучения английских слов уровня C1
 """
-
 import logging
 import random
 import asyncio
